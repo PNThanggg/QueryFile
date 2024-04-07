@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Query File</string>
+    <string name="txt_request_permission">Request permission</string>
+</resources>
